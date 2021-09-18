@@ -1,0 +1,13 @@
+# Site settings
+title: Jamie Wheaton
+description: Jekyll Theme Minimal Resume
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: https://jamesfwheaton.github.io
+# User settings
+username: Jamie Wheaton
+user_description: I am a technical writer who is passionate about distilling complex information into an easy-to-read format for users. I enjoy using my technical background and communication expertise to create useful documentation for both end-users and developers.
+user_title: Technical Writer
+email: jamesfwheaton@gmail.com
+
+
+exclude: ['package.json', 'src' , 'node_modules']
