@@ -16,4 +16,4 @@ email: jamesfwheaton@gmail.com
 exclude: ['package.json', 'src' , 'node_modules']
 github_username: jamesfwheaton
 baseurl: ""
-url: "https://jamesfwheaton.io"
+url: "https://jamesfwheaton.github.io"
