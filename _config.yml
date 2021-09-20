@@ -14,6 +14,6 @@ email: jamesfwheaton@gmail.com
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
-github_username: brettbblue
+github_username: jamesfwheaton
 baseurl: ""
-url: "https://jamesfwheaton.github.io"
+url: "https://jamesfwheaton.io"
